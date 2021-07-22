@@ -7,10 +7,13 @@ The purpose of this project is to develop a simple Map-Reduce program on Hadoop 
 
 In this project, you are asked to implement a simple graph algorithm that needs two Map-Reduce jobs.We use real data from Twitter from 2010. The dataset represents the follower graph that contains links between tweeting users in the form:id,follower_id. For example,
 
+```java
 12,13
 12,14
 12,15
 16,17
+
+```
 
 Here, users 13,14 and 15 are followers of user 12, while user 17 is a follower of user 16.We have taken a small dataset which contains 10,000 lines of complete which is in small-twitter.csv.
 
