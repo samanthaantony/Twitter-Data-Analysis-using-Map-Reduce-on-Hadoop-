@@ -1,4 +1,3 @@
-
 ## Twitter Data Analysis on Hadoop Map-Reduce
 
 
